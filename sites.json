@@ -5395,6 +5395,16 @@
             "whosay.com"
         ]
     },
+    
+    {
+        "name": "Wikia",
+        "url": "http://community.wikia.com/wiki/Help:Closing_an_account",
+        "difficulty": "impossible",
+        "notes": "'A username cannot be deleted.' However, they do have some suggestions.",
+        "domains": [
+            "wikia.com",
+        ]
+    },
 
     {
         "meta": "popular",
